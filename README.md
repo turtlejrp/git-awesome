@@ -1,2 +1,1 @@
-Hello Bootcamp 100  
-Check Edit from ISS6
+Hello, KBTG Kampus
